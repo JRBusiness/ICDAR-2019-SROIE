@@ -1,0 +1,10 @@
+{
+    "full_name": "SAMPLE NICK",
+    "height": "\"5'-10\"\"\"",
+    "weight": "Muck Sample",
+    "hair": "Muck Sample",
+    "eyes": "\"5'-10\"\"\"",
+    "dob": "01/12/1957 M",
+    "iss": "07/27/2019",
+    "exp": "01/12/2027"
+}
