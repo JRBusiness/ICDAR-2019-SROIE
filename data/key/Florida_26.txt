@@ -1,0 +1,7 @@
+{
+    "full_name": "SAMPLE NICK",
+    "street_address": "123 MAIN STREET",
+    "height": "\"5'-10\"\"\"",
+    "dob": "01/12/2027",
+    "iss": "07/27/2019"
+}
