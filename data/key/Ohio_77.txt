@@ -1,9 +1,0 @@
-{
-    "full_name": "DOE JANE",
-    "street_address": " OH 12345\"",
-    "weight": "01-21-2021",
-    "eyes": "A",
-    "dob": "09-16-1990",
-    "iss": "A",
-    "exp": "01-21-2021"
-}
