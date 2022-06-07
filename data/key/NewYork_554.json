@@ -1,9 +1,9 @@
 {
-    "state_name": "NEW YORK",
+    "full_name": "MICHELLE, MARIE",
     "id_number": "123 456 789",
     "street_address": "2345 ANYWHERE STREET",
-    "height": "\"5'-08\"\"\"",
-    "weight": "\"5'-08\"\"\"",
+    "height": "5'-08\"",
+    "weight": "5'-08\"",
     "eyes": "BRO",
     "dob": "10/31/1990",
     "iss": "03/07/2022",

@@ -1,8 +1,8 @@
 {
-    "state_name": "BOISE",
     "id_number": "83703",
     "street_address": "123 W STATEST BOISE ID 83703",
-    "height": "\"5'-10\"\"\"",
+    "height": "5'-10\"",
+    "weight": "5'-10\" 180 lb",
     "dob": "01/01/1991",
     "iss": "01/01/2016",
     "exp": "01/01/2020"

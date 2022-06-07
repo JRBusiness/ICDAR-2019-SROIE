@@ -1,10 +1,9 @@
 {
     "full_name": "SAMPLE",
-    "street_address": " NM 87102\"",
-    "height": "\"5'04\"\"\"",
+    "street_address": "123 STATE STREET ALBUQUERQUE, NM 87102",
+    "height": "5'04\"",
     "weight": "110",
-    "hair": "\"5'04\"\"\"",
-    "eyes": "BRO",
+    "hair": "5'04\"",
     "dob": "03/01/1957",
     "iss": "10/01/2019",
     "exp": "03/31/2027"

@@ -1,8 +1,9 @@
 {
-    "id_number": "83703",
-    "street_address": "123 W STATEST BOISE ID 83703",
-    "height": "\"5'-10\"\"\"",
-    "eyes": "BRO BRO",
+    "id_number": "012345678901",
+    "street_address": "123 W STATEST BOISEID 83703",
+    "height": "5'-10",
+    "weight": "180 lb",
+    "eyes": "BRO",
     "dob": "01/01/1991",
     "iss": "01/01/2016",
     "exp": "01/01/2020"

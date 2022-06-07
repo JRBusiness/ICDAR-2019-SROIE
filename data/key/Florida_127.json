@@ -1,9 +1,8 @@
 {
-    "full_name": "Nick Sample",
     "id_number": "S123-456-57-901-0",
-    "street_address": " FL 00000-1234\"",
-    "height": "\"5'-10\"\"\"",
-    "weight": "\"5'-10\"\"\"",
+    "street_address": "123 MAIN STREET TALLAHASSEE, FL 00000-1234",
+    "height": "5'-10\"",
+    "weight": "5'-10\"",
     "dob": "01/12/1957",
     "iss": "07/27/2019",
     "exp": "01/12/2027"

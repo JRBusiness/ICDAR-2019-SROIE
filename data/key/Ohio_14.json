@@ -1,8 +1,9 @@
 {
     "full_name": "DOE JANE",
-    "street_address": " OH 12345\"",
-    "height": "5-02",
+    "street_address": "123 ANYWHERE ST ANYTOWN, OH 12345",
+    "height": "5-02 BLU",
     "eyes": "BLU",
     "dob": "09-16-1990",
-    "iss": "ZZ1234567"
+    "iss": "07-02-2018",
+    "exp": "01-21-2021"
 }

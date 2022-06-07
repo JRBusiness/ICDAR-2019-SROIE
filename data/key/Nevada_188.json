@@ -1,9 +1,10 @@
 {
     "full_name": "John Sample",
     "id_number": "1234567890",
-    "street_address": " NV 00000-1234\"",
-    "height": "\"5'-10\"\"\"",
+    "street_address": "123 MAIN STREET CARSON CITY, NV 00000-1234",
+    "height": "5'-10\"",
     "weight": "185 1bs",
+    "eyes": "18",
     "dob": "10/27/1969",
     "iss": "10/25/2020",
     "exp": "10/27/2028"

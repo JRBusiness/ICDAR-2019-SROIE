@@ -2,8 +2,9 @@
     "full_name": "DOE JANE",
     "id_number": "AB123456",
     "street_address": "123 ANYWHERE ST ANYTOWN. OH 12345",
-    "eyes": "F",
+    "height": "01-21-2021",
+    "hair": "01-21-2021",
+    "eyes": "BLU",
     "dob": "09-16-1990",
-    "iss": "07-02-2018",
-    "exp": "E"
+    "iss": "07-02-2018"
 }

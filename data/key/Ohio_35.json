@@ -2,6 +2,6 @@
     "full_name": "DOE JANE",
     "id_number": "AB123456",
     "street_address": "123 ANYWHERE ST ANYTOWN. OH 12345",
-    "height": "48.85",
-    "dob": "09-16-1990"
+    "dob": "09-16-1990",
+    "iss": "09-16-1990"
 }

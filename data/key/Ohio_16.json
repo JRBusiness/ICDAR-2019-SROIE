@@ -1,8 +1,9 @@
 {
     "full_name": "DOE JANE",
     "id_number": "AB123456",
-    "street_address": " OH 12345\"",
+    "street_address": "123 ANYWHERE ST ANYTOWN, OH 12345",
     "eyes": "BLU",
     "dob": "09-16-1990",
-    "iss": "BLU"
+    "iss": "F 5-02 BLU",
+    "exp": "01-21-2021 XP"
 }

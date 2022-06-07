@@ -1,8 +1,8 @@
 {
     "full_name": "John Sample",
     "id_number": "123456789",
-    "street_address": " UT 84115\"",
-    "height": "\"5'-10\"\"\"",
+    "street_address": "200 SOUTH MAIN STREET. SALT LAKE CITY, UT 84115",
+    "height": "5'-10\"",
     "weight": "180 lb",
     "dob": "10/27/1969",
     "iss": "11/09/2021",
